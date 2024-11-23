@@ -1,0 +1,2 @@
+export const REACT_APP_PUBLIC_KEY="rzp_test_lvCM9bQ77qNqzd"
+export const REACT_APP_SECRET_KEY="DR4BPIC6c4p4jdA03WrObof5"
